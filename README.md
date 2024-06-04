@@ -1,21 +1,25 @@
-## SE3355 Final Project - IMDB Website
+![imdb drawio](https://github.com/gunesgultekin/3355_IMDB_Website/assets/126399958/1ce7f984-90d7-4d39-8094-d4a73dcaf94c)## SE3355 Final Project - IMDB Website
 # Visuals
-![login](https://github.com/gunesgultekin/imdb/assets/126399958/2750b200-1506-4df5-94e6-7b15c8c0b9ab)
-![dash](https://github.com/gunesgultekin/imdb/assets/126399958/7d5f83e6-4c72-44c7-8fb0-a7e5c3ca4491)
-![detail](https://github.com/gunesgultekin/imdb/assets/126399958/8fdd3290-dd93-48bc-89d9-02ce6c013d25)
-![watchlist](https://github.com/gunesgultekin/imdb/assets/126399958/38b9d6bb-ba66-4ef5-ba9c-7dc7541f6746)
+![login](https://github.com/gunesgultekin/3355_IMDB_Website/assets/126399958/27bd92a1-21fe-410b-8c87-dd5e3b86506c)
+![dash](https://github.com/gunesgultekin/3355_IMDB_Website/assets/126399958/bde99f54-6c13-4d14-9569-525ce2e2628d)
+![detail](https://github.com/gunesgultekin/3355_IMDB_Website/assets/126399958/0f2c8249-a9d9-48c2-b0dd-07d5799c8a04)
+![watchlist](https://github.com/gunesgultekin/3355_IMDB_Website/assets/126399958/7a1748ca-37d9-407f-a82e-c6440a617931)
+
 
 * Search
-https://github.com/gunesgultekin/imdb/assets/126399958/11f1c589-f37a-47e6-9cf7-0388d609024e
+https://github.com/gunesgultekin/3355_IMDB_Website/assets/126399958/38de0a3d-8d17-4035-b164-c6478020d362
 
 * Multiple Language
-https://github.com/gunesgultekin/imdb/assets/126399958/255cce57-26e8-48b9-ad3b-f94552a4128b
+
+https://github.com/gunesgultekin/3355_IMDB_Website/assets/126399958/7bc943dc-2e01-4b9c-83e0-1d529cbac6c0
+
 
 # Architecture
-![imdb drawio](https://github.com/gunesgultekin/imdb/assets/126399958/33addd70-f1f3-429c-9993-a9210930e4ad)
+
+![Uploading imdb.drawio.svg…]()
 
 # Data Model
-![imdb-diagram](https://github.com/gunesgultekin/imdb/assets/126399958/3502b020-ba84-4eb2-892a-426be0736de2)
+![imdb-diagram](https://github.com/gunesgultekin/3355_IMDB_Website/assets/126399958/7275a71f-f804-403b-8d0a-fd731c19511e)
 
 # API
 https://github.com/gunesgultekin/IMDB_API
