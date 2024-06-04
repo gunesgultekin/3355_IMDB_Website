@@ -9,6 +9,7 @@
 ![imdb drawio](https://github.com/gunesgultekin/3355_IMDB_Website/assets/126399958/1ce7f984-90d7-4d39-8094-d4a73dcaf94c)
 
 * Search
+  
 https://github.com/gunesgultekin/3355_IMDB_Website/assets/126399958/38de0a3d-8d17-4035-b164-c6478020d362
 
 * Multiple Language
