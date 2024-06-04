@@ -267,9 +267,6 @@ export default {
     async logout() {
       localStorage.clear();
       window.location.reload();
-      if (await auth.isAuthenticated) {
-        await auth.logout();
-      }
     },
 
     navigateDashboard() {
